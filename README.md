@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Naved Shekh
 
-<!--
-**navedshekh2003/navedshekh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | 💻 Frontend Developer | 🚀 MERN Stack Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+Frontend Developer (Fresher) with hands-on experience in building responsive web applications using HTML5, CSS3, JavaScript (ES6+), and React.js.
+
+I love building clean UI, reusable components and modern web applications.
+
+---
+
+## 🚀 Skills
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+
+### Backend (Basic)
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📂 Projects
+
+### 🌍 Jaipur Explore
+Responsive travel website built using React.js, HTML5, CSS3, Bootstrap & Tailwind CSS.
+
+
+---
+
+### 🛒 KabartCartHQ
+Component-based React.js application with responsive UI.
+
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: shekhnaved525@gmail.com
+- 📍 Jaipur, Rajasthan
