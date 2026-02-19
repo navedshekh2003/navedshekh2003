@@ -1,56 +1,83 @@
-# Hi 👋 I'm Naved Shekh
+<!-- Profile Banner -->
+<h1 align="center">Hi 👋 I'm Naved Shekh</h1>
+<h3 align="center">🎓 BCA Graduate | 💻 Frontend Developer | 🚀 MERN Stack Enthusiast</h3>
 
-🎓 BCA Graduate | 💻 Frontend Developer | 🚀 MERN Stack Enthusiast  
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f0/75/9b/f0759b3237ee4069dead7a267af5d883.jpg" width="180" style="border-radius:50%;" alt="Naved Shekh"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-Frontend Developer with hands-on experience in building responsive web applications using HTML5, CSS3, JavaScript (ES6+), and React.js.
 
-I love building clean UI, reusable components and modern web applications.
+✨ Passionate Frontend Developer from India  
+✨ I build responsive & modern web applications  
+✨ Love creating clean UI & reusable components  
+✨ Currently improving my MERN Stack skills  
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+</p>
 
-### Backend (Basic)
-- Node.js
-- Express.js
-- REST APIs
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Database
-- MongoDB
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 📂 Projects
 
 ### 🌍 Jaipur Explore
-Responsive travel website built using React.js, HTML5, CSS3, Bootstrap & Tailwind CSS.
+🔹 Responsive Travel Website  
+🔹 Built with React.js, HTML5, CSS3, Bootstrap & Tailwind  
+🔹 Clean UI & Mobile Friendly  
 
+### 🛒 KabartCartHQ
+🔹 Component-Based React Application  
+🔹 Fully Responsive Layout  
+🔹 Modern UI Design  
 
 ---
 
-### 🛒 KabartCartHQ
-Component-based React.js application with responsive UI.
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: shekhnaved525@gmail.com
-- 📍 Jaipur, Rajasthan
+
+📧 Email: shekhnaved525@gmail.com  
+📍 Jaipur, Rajasthan  
+💼 LinkedIn: Add your LinkedIn link here  
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
