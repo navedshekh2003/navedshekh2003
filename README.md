@@ -76,7 +76,7 @@
 
 📧 Email: shekhnaved525@gmail.com  
 📍 Jaipur, Rajasthan  
-💼 LinkedIn: Add your LinkedIn link here  
+💼 LinkedIn:[ Add your LinkedIn link here  ](https://www.linkedin.com/in/navedshekh-tech/)
 
 ---
 
