@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-Frontend Developer (Fresher) with hands-on experience in building responsive web applications using HTML5, CSS3, JavaScript (ES6+), and React.js.
+Frontend Developer with hands-on experience in building responsive web applications using HTML5, CSS3, JavaScript (ES6+), and React.js.
 
 I love building clean UI, reusable components and modern web applications.
 
