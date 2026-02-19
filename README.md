@@ -3,7 +3,13 @@
 <h3 align="center">🎓 BCA Graduate | 💻 Frontend Developer | 🚀 MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img width="100" height="100" border-radius="100" alt="Gemini_Generated_Image_y96ffey96ffey96f" src="https://github.com/user-attachments/assets/e27b54b2-91ca-46ec-900d-3ceff94a5d0f" />
+  <img 
+    src="https://github.com/user-attachments/assets/e27b54b2-91ca-46ec-900d-3ceff94a5d0f" 
+    width="150" 
+    height="150" 
+    style="border-radius: 50%;" 
+    alt="Naved Shekh"
+  />
 </p>
 
 
